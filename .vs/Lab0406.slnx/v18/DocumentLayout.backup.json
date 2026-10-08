@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\f6 tools\\\u041B\u0430\u0431\u043A\u0438\\Lab0406\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{368EDD43-ED58-4008-97E9-07840206514B}|Lab0406\\Lab0406.vcxproj|C:\\f6 tools\\\u041B\u0430\u0431\u043A\u0438\\Lab0406\\Lab0406\\Lsb0406.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{368EDD43-ED58-4008-97E9-07840206514B}|Lab0406\\Lab0406.vcxproj|solutionrelative:Lab0406\\Lsb0406.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 248,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lsb0406.cpp",
+              "DocumentMoniker": "C:\\f6 tools\\\u041B\u0430\u0431\u043A\u0438\\Lab0406\\Lab0406\\Lsb0406.cpp",
+              "RelativeDocumentMoniker": "Lab0406\\Lsb0406.cpp",
+              "ToolTip": "C:\\f6 tools\\\u041B\u0430\u0431\u043A\u0438\\Lab0406\\Lab0406\\Lsb0406.cpp*",
+              "RelativeToolTip": "Lab0406\\Lsb0406.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-07T13:19:44.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 35,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
